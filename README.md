@@ -34,5 +34,4 @@ Instructions:
 1. Download AntiNemotrix.bat.
 2. Run as Administrator.
 
-Author: Timur
 TikTok: tiktok.com/@cheb0chik
