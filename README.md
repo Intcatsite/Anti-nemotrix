@@ -37,3 +37,6 @@ Instructions:
 2. Run as Administrator.
 
 TikTok: tiktok.com/@cheb0chik
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Intcatsite/Anti-nemotrix&type=date&legend=top-left)](https://www.star-history.com/#Intcatsite/Anti-nemotrix&type=date&legend=top-left)
