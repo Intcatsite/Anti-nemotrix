@@ -18,10 +18,10 @@ echo ╚════════════════════════
 echo.
 
 if not exist "blacklist.txt" (
-echo ошибка: файл blacklist.txt не найден!
-echo создайте файл blacklist.txt с доменами
-pause
-exit /b 1
+    echo ошибка: файл blacklist.txt не найден!
+    echo создайте файл blacklist.txt с доменами
+    pause
+    exit /b 1
 )
 
 echo [*] Запуск процесса очистки...
